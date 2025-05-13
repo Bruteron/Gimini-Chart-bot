@@ -1,1 +1,1 @@
-# Gimini-Chart-bot
+Gemini Chat bot
